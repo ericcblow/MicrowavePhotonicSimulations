@@ -1,4 +1,4 @@
-# MWP_RF_Sims
+# Microwave Photonic Simulations
 Generalized Radio-Frequency (RF) simulations for Microwave Photonic (MWP) analog photonic links (APLs) and simulations on the performance and operational theory of Microwave Photonic Cancellation (MPC) systems. These simulations appear within Eric C. Blow's 2023 Princeton University PhD Thesis "Microwave Photonic Cancellation: RF Analysis, III-V and Silicon Integration, Development of Balanced and Hybrid Architectures" and Paul R. Prucnal's course "ELE559 - Photonic Systems" at Princeton University. 
 
 Primary references include: 
