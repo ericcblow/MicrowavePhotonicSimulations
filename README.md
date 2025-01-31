@@ -17,9 +17,9 @@ To do: Si waveguide loss is fixed to one size, create waveguide physical perimet
 Sims transferred from thesis directory on 06/22/2023 <br>
 
 <p align="center">
-  <img src="/SurfaceRM.JPG" alt="Cancellation Simulation" width="200">
+  <img src="/SurfaceRM.JPG" alt="Cancellation Simulation" width="350">
 </p>
 <br>
 <p align="center">
-  <img src="/RFNFRM.JPG" alt="RF Performance Simulation" width="200">
+  <img src="/RFNFRM.JPG" alt="RF Performance Simulation" width="350">
 </p>
