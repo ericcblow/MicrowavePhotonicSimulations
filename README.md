@@ -15,11 +15,6 @@ Primary references include:
 To do: Si waveguide loss is fixed to one size, create waveguide physical perimeters as an user input <br>
 
 Sims transferred from thesis directory on 06/22/2023 <br>
-
-<p align="center">
-  <img src="/SurfaceRM.JPG" alt="Cancellation Simulation" width="350">
-</p>
+![Cancellation Simulation](/SurfaceRM.JPG)
 <br>
-<p align="center">
-  <img src="/RFNFRM.JPG" alt="RF Performance Simulation" width="350">
-</p>
+![RF Performance Simulation](/RFNFRM.JPG)
