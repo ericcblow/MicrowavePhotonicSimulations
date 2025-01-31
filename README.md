@@ -12,6 +12,14 @@ Primary references include:
 [8] Marpaung, David Albert Immanuel. "High dynamic range analog photonic links: design and implementation." University of Twente (2009). <br> 
 
 
-To do: Si waveguide loss is fixed to one size, create waveguide physical perimeters as an user input
+To do: Si waveguide loss is fixed to one size, create waveguide physical perimeters as an user input <br>
 
-Sims transferred from thesis directory on 06/22/2023
+Sims transferred from thesis directory on 06/22/2023 <br>
+
+<p align="center">
+  <img src="/SurfaceRM.JPG" alt="Cancellation Simulation" width="600">
+</p>
+<br>
+<p align="center">
+  <img src="/RFNFRM.JPG" alt="RF Performance Simulation" width="600">
+</p>
