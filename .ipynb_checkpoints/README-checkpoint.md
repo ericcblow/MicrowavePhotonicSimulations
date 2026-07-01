@@ -14,7 +14,12 @@ Primary references include:
 
 To do: Si waveguide loss is fixed to one size, create waveguide physical perimeters as an user input <br>
 
-Sims transferred from thesis directory on 06/22/2023 <br>
+Sims transferred from thesis directory on 06/2023 <br>
 ![Cancellation Simulation](/SurfaceRM.JPG)
 <br>
-![RF Performance Simulation](/RFNFRM.JPG)
+
+Sims SiPh PNN transferred for IEEE JLT Review Paper on 07/2026
+
+![RF Performance Simulation](./RF_Analysis-Si_Ph_PNN/RF_Analysis_Linear.png)
+
+![RF Performance Simulation LNA](./RF_Analysis-Si_Ph_PNN/RF_Analysis_Linear_LNA.png)
