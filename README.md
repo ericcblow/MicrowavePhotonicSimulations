@@ -18,8 +18,8 @@ Sims transferred from thesis directory on 06/2023 <br>
 ![Cancellation Simulation](/SurfaceRM.JPG)
 <br>
 
-Sims SiPh PNN transferred for IEEE JLT Review Paper on 07/2026
+# Sims SiPh PNN Transferred for IEEE JLT Review Paper — 07/2026
 
-![RF Performance Simulation](./RF_Analysis-Si_Ph_PNN/RF_Analysis_Linear.png)
+![RF Performance Simulation](RF_Analysis-Si_Ph_PNN/RF_Analysis_Linear.png)
 
-![RF Performance Simulation LNA](./RF_Analysis-Si_Ph_PNN/RF_Analysis_Linear_LNA.png)
+![RF Performance Simulation LNA](RF_Analysis-Si_Ph_PNN/RF_Analysis_Linear_LNA.png)
